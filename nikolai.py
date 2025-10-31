@@ -123,7 +123,7 @@ E28 = -67.941409230581000
 
 
 
-t = pd.read_csv("/Users/milan/Desktop/GHQ/data/loto7_4502_k85.csv", header=None)
+t = pd.read_csv("/data/loto7_4502_k85.csv", header=None)
 
 
 print()
@@ -619,6 +619,7 @@ print()
 print()
 print("###############################")
 print()
+
 
 
 ################################################
