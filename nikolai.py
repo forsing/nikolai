@@ -620,6 +620,16 @@ print()
 print("###############################")
 print()
 
+"""
+=== Qiskit Version Table ===
+Software                       Version        
+---------------------------------------------
+qiskit                         1.4.4          
+qiskit_machine_learning        0.8.3          
 
-
+=== System Information ===
+Python version                 3.11.13        
+OS Apple                       Darwin 
+"""
 ################################################
+
